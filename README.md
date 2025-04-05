@@ -1,2 +1,6 @@
 # CafePOS-itr2
- Dev:v0-dev , db connections in place, backend not fully functional
+ Website(MERN)
+ Dev:v0-dev, 
+ db connections in place,
+ backend not fully functional
+ 
